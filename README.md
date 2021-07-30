@@ -1,4 +1,4 @@
-# kali-Linux-v2rayA       --作者QQ：2368079178
+# kali-Linux-v2rayA       --作者主页：https://github.com/kkkk-cmd QQ：2368079178
 kali一个软件的模组需要用到外面的资源，于是被逼着费了九牛二虎之力找到了kali安装相关软件的教程，在此做个记录。
 
 学习交流QQ：2368079178
