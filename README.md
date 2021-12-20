@@ -64,7 +64,9 @@ X64架构的处理器选择amd64版本的，arm架构的处理器选择arm64版�
 所以安装命令
 
 sudo apt install /root/桌面/installer_debian_amd64_v1.4.1.deb 
- 
+
+systemctl start v2raya.service
+
 到这。所有的安装都已经完成了。。恭喜恭喜！
 
 ## 三、使用
@@ -80,11 +82,14 @@ sudo apt install /root/桌面/installer_debian_amd64_v1.4.1.deb
 进去后，点 import ，导入自己的链接。 
 
 ![word3](https://user-images.githubusercontent.com/67810976/127617812-e3a319c8-89ff-469f-bf7b-d69a7fea4ee8.png)
+
 ![word4](https://user-images.githubusercontent.com/67810976/127617814-fa27febc-c32b-4db0-b8b8-4d619334b194.png)
+
 ![word5](https://user-images.githubusercontent.com/67810976/127617817-4880fd64-b311-4b16-b493-932026b07726.png)
      
    
 ok。可以冲浪了。 
+
 ![word6](https://user-images.githubusercontent.com/67810976/127617844-cd73e673-1505-4aca-bc60-d31abdd9fbe3.png)
 
 
